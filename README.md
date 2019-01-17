@@ -1,4 +1,5 @@
-bruh
+Benefits of JahCoin:
+========
 
 * The most valuable cryptocurrency
 
